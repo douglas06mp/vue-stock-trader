@@ -1,5 +1,7 @@
 # stocktrader
 
+### demo link [github-pages](https://douglas06mp.github.io/vue-stock-trader/)
+
 ## Project setup
 ```
 npm install
